@@ -1,6 +1,8 @@
 # Grantmaker settings
 foundation_name: The Rwanda Library Project
-foundation_tagline: Advancing the adoption of open source technology among progressive funders
+foundation_tagline: is to empower rural communities in Rwanda through providing access to literacy
+  and education through libraries, bridging the educational gap, and bringing knowledge to the
+  heart of rural Rwanda.
 grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw_123456_EXAMPLE
 
 # Social media settings
@@ -13,9 +15,9 @@ profile_github: https://github.com/rwandalibraryproject  # Change this to your p
 # Site settings
 title: The Rwanda Library Project  # Sets the browser tab title
 description: >
-  RCS’s mission is to empower rural communities in Rwanda through providing access to literacy
-  and education through libraries, bridging the educational gap, and bringing knowledge to the
-  heart of rural Rwanda.
+  Rwanda is a small country in east Africa with 13.46 million people. Around 83% of the
+  population live in rural areas, and 4 out of the 5 government public libraries in the country are
+  located in Kigali, the capital city of Rwanda.
 
 # Google settings
 live: true  # Set to true if you're ready for search engines to index your site
