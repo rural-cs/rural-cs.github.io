@@ -1,5 +1,5 @@
 # Grantmaker settings
-foundation_name: The Example Foundation
+foundation_name: The Rwanda Library Project
 foundation_tagline: Advancing the adoption of open source technology among progressive funders
 grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw_123456_EXAMPLE
 
@@ -7,8 +7,8 @@ grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw
 # Enter the full profile url (e.g. https://twitter.com/smartergiving)
 profile_twitter: https://twitter.com/examplefdn
 profile_facebook: https://facebook.com/the-example-foundation
-profile_instagram: 
-profile_github: 
+profile_instagram: https://www.instagram.com/ronanrm_/
+profile_github: https://www.facebook.com/ronanrussel.andal/
 
 # Site settings
 title: # Defaults to foundation_name if left blank
