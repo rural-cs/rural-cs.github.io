@@ -13,7 +13,9 @@ profile_github: https://github.com/rwandalibraryproject  # Change this to your p
 # Site settings
 title: The Rwanda Library Project  # Sets the browser tab title
 description: >
-  The Rwanda Library Project supports progressive funders through open-source technology adoption and sustainable practices. Learn more about our projects and mission.
+  RCS’s mission is to empower rural communities in Rwanda through providing access to literacy
+  and education through libraries, bridging the educational gap, and bringing knowledge to the
+  heart of rural Rwanda.
 
 # Google settings
 live: true  # Set to true if you're ready for search engines to index your site
