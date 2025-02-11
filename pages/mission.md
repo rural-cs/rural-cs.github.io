@@ -1,9 +1,16 @@
 ---
-header_title: Mission
+header_title: Who We Are
 header_intro: 
 layout: page
 permalink: /:basename/
 ---
+
+Rural Community Solutions (RCS) is a passionate and action-oriented nonprofit organization dedicated to transforming lives in Rwanda's rural areas. Founded by a visionary alumna of Gashora Girls Academy, RCS is committed to bridging gaps in literacy and agriculture.
+We believe that access to education and food security are the cornerstones of empowering communities. By building libraries in rural areas and supporting agricultural innovations, we aim to unlock the potential of children and their families, creating opportunities for learning, growth, and sustainable livelihoods.
+At RCS, our mission is to nurture a well-read and well-fed Rwanda, fostering hope and resilience across rural communities.
+
+<h2>What We Do</h2>
+
 RCS’s mission is to empower rural communities in Rwanda through providing access to literacy
 and education through libraries, bridging the educational gap, and bringing knowledge to the
 heart of rural Rwanda.
