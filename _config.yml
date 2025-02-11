@@ -24,7 +24,7 @@ live: true  # Set to true if you're ready for search engines to index your site
 
 # Jekyll settings
 baseurl: ""  # Leave this blank for the root domain (e.g., https://rwandalibraryproject.github.io)
-url: https://rwandalibraryproject.github.io  # The live GitHub Pages URL for your site
+url: https://rural-cs.github.io  # The live GitHub Pages URL for your site
 collections:
   featured-cards:
     output: true
