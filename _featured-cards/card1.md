@@ -2,7 +2,7 @@
 layout: card
 card_id: card1
 project_title: Literacy & Education
-project_summary: RCS aims to bridge Rwanda's educational gap by building libraries, starting with Sangaza, to provide learning resources for rural communities.
+project_summary: Starting with Sangaza, RCS aims to provide learning resources for rural communities.
 featured: true
 ---
 <!--Featured cards can be written in HTML or markdown -->
