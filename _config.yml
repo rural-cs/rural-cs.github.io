@@ -1,5 +1,5 @@
 # Grantmaker settings
-foundation_name: The Rwanda Library Project
+foundation_name: Rural Community Solutions
 foundation_tagline: founded by Sarah Benimana
 grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw_123456_EXAMPLE
 
@@ -11,7 +11,7 @@ profile_instagram: https://www.instagram.com/ronanrm_/  # Updated to your Instag
 profile_github: https://github.com/rwandalibraryproject  # Change this to your project's GitHub repo URL
 
 # Site settings
-title: The Rwanda Library Project  # Sets the browser tab title
+title: Rural Community Solutions  # Sets the browser tab title
 description: >
   Rwanda is a small country in east Africa with 13.46 million people. Around 83% of the
   population live in rural areas, and 4 out of the 5 government public libraries in the country are
