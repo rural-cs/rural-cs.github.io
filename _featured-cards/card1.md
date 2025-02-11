@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card1
-project_title: Literacy & Education
+project_title: Our Libraries
 project_summary: Starting with Sangaza, RCS aims to provide learning resources for rural communities.
 featured: true
 ---
