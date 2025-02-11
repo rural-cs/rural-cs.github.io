@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card2
-project_title: Ultricies lacinia interdum
+project_title: Farming and Food Sovereighnity
 project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat.
 featured: true
 ---
