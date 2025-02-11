@@ -9,6 +9,21 @@ Rural Community Solutions (RCS) is a passionate and action-oriented nonprofit or
 We believe that access to education and food security are the cornerstones of empowering communities. By building libraries in rural areas and supporting agricultural innovations, we aim to unlock the potential of children and their families, creating opportunities for learning, growth, and sustainable livelihoods.
 At RCS, our mission is to nurture a well-read and well-fed Rwanda, fostering hope and resilience across rural communities.
 
+<h2>Where We Are</h2>
+RCS operates in Rwanda, a vibrant and resourceful country in East-Central Africa. With a population of around 14 million people, the majority—over 80%—live in rural areas. While the capital city, Kigali, boasts most of the country’s public libraries and resources, rural communities face significant challenges in accessing education materials and modern agricultural support.
+Our work is centered in these underserved rural regions, where we strive to build libraries, provide access to books and learning materials, and promote agricultural advancements to empower communities. By focusing on these areas, RCS aims to address the gaps in literacy and food security, making a lasting impact on the lives of children and families.
+
+<h2>How We Do It</h2>
+We take a hands-on approach to empowering rural communities in Rwanda. Our work is driven by collaboration, innovation, and a commitment to sustainable solutions. Here's how we make a difference:
+
+Building Libraries: We establish libraries in rural areas, bringing books, educational materials, and literacy resources directly to communities where they are needed most.
+
+Promoting Literacy: Through partnerships with schools and community organizations, we provide children and adults with the tools to develop reading and writing skills, fostering a culture of lifelong learning.
+
+Revolutionizing Agriculture: We work with farmers to introduce modern agricultural techniques, improve crop yields, and increase incomes, tackling food insecurity and improving overall well-being.
+Engaging Communities: We collaborate with local leaders, educators, and families to ensure that our programs address the unique challenges and aspirations of each community.
+
+
 <h2>What We Do</h2>
 
 RCS’s mission is to empower rural communities in Rwanda through providing access to literacy
