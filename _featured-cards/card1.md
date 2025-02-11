@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card1
-project_title: Magna sed consequat tempus
+project_title: Literacy & Education
 project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
 featured: true
 ---

@@ -1,13 +1,13 @@
 # Grantmaker settings
 foundation_name: Rural Community Solutions
-foundation_tagline: founded by Sarah Benimana
+foundation_tagline: 
 grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw_123456_EXAMPLE
 
 # Social media settings
 # Enter the full profile URL (e.g., https://twitter.com/yourfoundation)
 profile_twitter: https://twitter.com/examplefdn
 profile_facebook: https://facebook.com/the-example-foundation
-profile_instagram: https://www.instagram.com/ronanrm_/  # Updated to your Instagram
+profile_instagram: https://www.instagram.com/rcs_hi/  # Updated to your Instagram
 profile_github: https://github.com/rwandalibraryproject  # Change this to your project's GitHub repo URL
 
 # Site settings
