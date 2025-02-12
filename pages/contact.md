@@ -1,13 +1,13 @@
 ---
 header_title: Contact
-address_line_one: 1234 Philanthropy Rd.
+address_line_one: 3050 Maile Way
 address_line_two: 
-city: Bend
-state: OR
-zip: 97701
-phone: 541.555.1212
-fax: 541.555.1214
-email: hello@example.com
+city: Honolulu
+state: HI
+zip: 96822
+phone: 509-301-0612
+fax: 
+email: benimana@hawaii.edu
 layout: contact
 permalink: /:basename/
 ---
