@@ -2,7 +2,7 @@
 layout: card
 card_id: card2
 project_title: Farming and Food Sovereighnity
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat.
+project_summary: RCS partners with SACCP LTD to train Rwandan farmers, improve maize yields, and provide ongoing support through success stories and weekly Zoom sessions.
 featured: true
 ---
 
